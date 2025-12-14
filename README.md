@@ -1,2 +1,2 @@
-# Pac-Man-game
-Developed Value Iteration, Policy Iteration, and Q-Learning agents to autonomously play Pac-Man using Java 
+Must "fork" this project and work on your own forked copy
+Do not change the project name

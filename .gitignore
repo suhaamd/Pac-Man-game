@@ -1,0 +1,9 @@
+/bin
+.DS_Store
+src/.DS_Store
+src/pacman/.DS_Store
+src/pacman/controllers/.DS_Store
+.idea
+.settings/*
+.projectout/*
+target/

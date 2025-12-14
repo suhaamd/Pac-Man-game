@@ -1,0 +1,7 @@
+stages:
+  - test
+
+unit_tests:
+  stage: test
+  script:
+    - mvn --batch-mode test
